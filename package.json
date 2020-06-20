@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "prod-deploy-windows": "node scripts/prod-deploy-windows.js"
+    "prod-deploy": "node scripts/prod-deploy.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
